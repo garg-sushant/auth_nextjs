@@ -7,7 +7,7 @@ Users can log in using a public API and view their profile information.
 
 Deployed on Vercel:
 
-https://auth-nextjs.vercel.app
+auth-nextjs-brown.vercel.app
 
 ## Features
 
